@@ -1,2 +1,5 @@
-package lk.ijse.studentmanagement.util;public class UtiProcess {
+package lk.ijse.studentmanagement.util;
+
+public class UtilProcess {
+
 }
